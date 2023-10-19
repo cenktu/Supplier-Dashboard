@@ -1,0 +1,21 @@
+{
+  "name": "supplierdashboard",
+  "version": "1.0.0",
+  "description": "Supplier Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SupplierDashboard"
+  },
+  "author": "Ali Cenk Turpculu",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "mongoose": "^7.6.2"
+  }
+}

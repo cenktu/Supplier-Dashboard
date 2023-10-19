@@ -1,0 +1,42 @@
+
+.graph {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+  }
+
+  .graph h2 {
+    font-size: 32px;
+    margin: 40px;
+    color: #333;
+  }
+  
+  .graph p {
+    font-size: 24px;
+    color: #888;
+  }
+  
+  .chart {
+    width: 80%;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+  }
+  
+  .chart h2 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .chart canvas {
+    width: 100% !important;
+    height: auto;
+  }
+  
