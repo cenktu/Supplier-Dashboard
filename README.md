@@ -87,6 +87,11 @@ The server will start on port `localhost:/3000` by default.
 To display Total Sales Table, head to `http://localhost:3000/sales/${vendorId}`
 To display Monthly Sales Graph, head to `http://localhost:3000/sales/monthly/${vendorId}`
 
+Example Screenshots for the Supplier-Dashboard
+![](frontend/public/MonthlySalesGraph.png)
+
+![](frontend/public/TotalSalesTable.png)
+
 Built With
 `React`
 
